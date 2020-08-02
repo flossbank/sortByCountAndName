@@ -1,0 +1,14 @@
+{
+  "name": "name_and_count_sort",
+  "version": "1.0.0",
+  "description": "Sort data by both a name and count",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^3.11.0"
+  }
+}
