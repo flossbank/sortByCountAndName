@@ -6,8 +6,12 @@
   "scripts": {
     "test": "ava"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/flossbank/sortByCountAndName"
+  },
+  "author": "Joel Wasserman",
+  "license": "MIT",
   "devDependencies": {
     "ava": "^3.11.0"
   }
